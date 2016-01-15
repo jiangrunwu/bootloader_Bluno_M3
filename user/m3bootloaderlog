@@ -1,0 +1,15 @@
+main.c 
+stm32f10x_it.c 
+E:\jansion\project\Bluno M3 bootloader\user\stm32f10x_it.c(193) : Warning[Pe177]: variable "begin" was declared but never referenced
+system_stm32f10x.c 
+main.c 
+E:\jansion\project\Bluno M3 bootloader\user\main.c(129) : Warning[Pe177]: variable "data_len" was declared but never referenced
+E:\jansion\project\Bluno M3 bootloader\user\main.c(499) : Warning[Pe177]: variable "size" was declared but never referenced
+E:\jansion\project\Bluno M3 bootloader\user\main.c(500) : Warning[Pe177]: variable "p" was declared but never referenced
+E:\jansion\project\Bluno M3 bootloader\user\main.c(594) : Warning[Pe177]: variable "TIM_OCInitStructure" was declared but never referenced
+E:\jansion\project\Bluno M3 bootloader\user\main.c(655) : Warning[Pe177]: variable "Jump_To_Application" was declared but never referenced
+E:\jansion\project\Bluno M3 bootloader\user\main.c(656) : Warning[Pe177]: variable "JumpAddress" was declared but never referenced
+E:\jansion\project\Bluno M3 bootloader\user\main.c(137) : Warning[Pa082]: undefined behavior: the order of volatile accesses is undefined in this statement
+stm32f10x_it.c 
+E:\jansion\project\Bluno M3 bootloader\user\stm32f10x_it.c(193) : Warning[Pe177]: variable "begin" was declared but never referenced
+system_stm32f10x.c 
